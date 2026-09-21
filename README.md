@@ -7,3 +7,4 @@
 - E. Evans, “[Domain-Driven Design Reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)”. Domain Language
 - [Custom Instructions vs Custom Agents vs Agent Skills (Explained)
 ](https://www.youtube.com/watch?v=U3Y6oPWcWo0) (youtube)
+- [Spec-Driven Development Quickstart](https://github.github.com/spec-kit/quickstart.html)
